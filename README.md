@@ -49,3 +49,5 @@ Add Session provider in provider.ts
 Add Login and Logout in page.tsx
 Add File:  src\components\profile.tsx
 
+Credential Auth example(feature)
+https://authjs.dev/getting-started/authentication/credentials?framework=next-js
